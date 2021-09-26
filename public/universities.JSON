@@ -4,14 +4,16 @@
     "established": 1701,
     "img": "https://amgenscholars.com/wp-content/uploads/2018/09/photo-yale.jpg",
     "location": "United States",
-    "students": 12060
+    "students": 12060,
+    "motto":"know" 
   },
   {
     "name": "Harvard University",
     "established": 1636,
     "img": "https://st.depositphotos.com/2152853/4022/i/600/depositphotos_40228699-stock-photo-06-04-2011-usa-harvard.jpg",
     "location": "United States",
-    "students": 20970
+    "students": 20970,
+    "motto":"know"
   },
   {
     "name": "Princeton University",

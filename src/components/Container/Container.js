@@ -32,7 +32,7 @@ const Container = () => {
           ></School>
         ))}
       </div>
-      <div className='Sidebox'>
+      <div className='cart'>
         <Box added={cart}></Box>
       </div>
     </div>

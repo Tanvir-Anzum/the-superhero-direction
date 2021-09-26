@@ -1,0 +1,6 @@
+.heading-one,.heading-two{
+ display: flex;
+ justify-content: center;
+ color: white;
+ background-color: black;
+}
