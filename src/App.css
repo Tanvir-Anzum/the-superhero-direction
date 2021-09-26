@@ -33,8 +33,9 @@ align-items: center;
 }
 
 h1{
- font-size: 24px;
- color: red;
+ text-align: center;
+ font-size: 16px;
+ color:white;
 }
 
 
