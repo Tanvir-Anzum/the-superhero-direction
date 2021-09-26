@@ -4,7 +4,7 @@ import { faCartPlus } from '@fortawesome/free-solid-svg-icons'
 
 import './school.css'
 const School = (props) => {
-  const { name, img, location, established, students } = props.sc
+  const { name, img, motto, location, established, students } = props.sc
   
 const element = <FontAwesomeIcon icon={faCartPlus} />
 
@@ -13,6 +13,7 @@ const element = <FontAwesomeIcon icon={faCartPlus} />
       <div className='singleCard'>
         <img src={img} alt='' />
         <h1>name : {name}</h1>
+        <h1>motto : {motto}</h1>
         <h1>established : {established}</h1>
         <h1>students : {students}</h1>
         <h1>location : {location}</h1>

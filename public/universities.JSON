@@ -20,48 +20,55 @@
     "established": 1746,
     "img": "https://www.collegeconsensus.com/wp-content/uploads/2016/12/20080421_CampLife_02_1-L-800x534.jpg",
     "location": "United States",
-    "students": 8419
+    "students": 8419,
+    "motto": "know thyself"
   },
   {
     "name": "University of California",
     "established": 1919,
     "img": "https://www.thoughtco.com/thmb/ZcDf9G6CceOAu0bGyoXuRvwvBeg=/1885x1414/smart/filters:no_upscale()/university-of-california--los-angeles--ucla--606330033-5c8e8cb846e0fb0001f8d06d.jpg",
     "location": "United States",
-    "students": 45742
+    "students": 45742,
+    "motto": "education for life"
   },
   {
     "name": "University of Cambridge",
     "established": 1636,
     "img": "https://worldscholarshipforum.com/wp-content/uploads/2020/11/cambridge-university-tuition.jpg",
     "location": "United Kingdom",
-    "students": 24450
+    "students": 24450,
+    "motto": "In God we trust"
   },
   {
     "name": "Nationa University of Singapore",
     "established": 1905,
     "img": "https://www.nus.edu.sg/images/default-source/corporate/homepage-refresh/20210924/h2.jpg",
     "location": "Singapore",
-    "students": 35908
+    "students": 35908,
+    "motto": "build future with education"
   },
   {
     "name": "University of Oxford",
     "established": 1919,
     "img": "https://s3.eu-north-1.amazonaws.com/images.free-apply.com/uni/gallery/lg/1082600235/4fa5a6e92b4a5e75e1977a33106a5419f1cf1921.jpg",
     "location": "United Kingdom",
-    "students": 24515
+    "students": 24515,
+    "motto": "education for enlightment"
   },
   {
     "name": "Stanford University",
     "established": 1891,
     "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201610/stanford---wikipedia-647_101716052024.jpg?size=770:433",
     "location": "United States",
-    "students": 17249
+    "students": 17249,
+    "motto": "exceleence is our aim"
   },
   {
     "name": "Brown University",
     "established": 1764,
     "img": "https://www.brown.edu/sites/g/files/dprerj316/files/styles/ultrawide_med/public/2019-03/20181031_Brown4_C83T5506.jpg?h=298f6650&itok=5d_YSX8y",
     "location": "United Kingdom",
-    "students": 10333
+    "students": 10333,
+    "motto": "be enlightened"
   }
 ]
