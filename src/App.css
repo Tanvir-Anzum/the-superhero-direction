@@ -1,38 +1,40 @@
-.App {
-  text-align: center;
+
+
+/* git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ProgrammingHeroWC4/the-superhero-direction-Tanvir-Anzum.git
+git push -u origin main */
+
+
+
+
+.mid{
+/* margin-left: auto;
+margin-right: auto;
+color: blue;
+width: fit-content; */
+display: flex;
+flex-direction: column;
+align-items: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.tawsif{
+ color: black;
+ background-color: rgb(136, 255, 0);
+ width: fit-content;
+ margin-left: auto;
+ margin-right: auto;
+ border: 5px solid rgb(0, 195, 255);
+ border-radius: 7px;
+ padding: 10px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1{
+ font-size: 24px;
+ color: red;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Yale University",
+    "established": 1701,
+    "img": "https://amgenscholars.com/wp-content/uploads/2018/09/photo-yale.jpg",
+    "location": "United States",
+    "students": 12060
+  },
+  {
+    "name": "Harvard University",
+    "established": 1636,
+    "img": "https://st.depositphotos.com/2152853/4022/i/600/depositphotos_40228699-stock-photo-06-04-2011-usa-harvard.jpg",
+    "location": "United States",
+    "students": 20970
+  },
+  {
+    "name": "Princeton University",
+    "established": 1746,
+    "img": "https://www.collegeconsensus.com/wp-content/uploads/2016/12/20080421_CampLife_02_1-L-800x534.jpg",
+    "location": "United States",
+    "students": 8419
+  },
+  {
+    "name": "University of California",
+    "established": 1919,
+    "img": "https://www.thoughtco.com/thmb/ZcDf9G6CceOAu0bGyoXuRvwvBeg=/1885x1414/smart/filters:no_upscale()/university-of-california--los-angeles--ucla--606330033-5c8e8cb846e0fb0001f8d06d.jpg",
+    "location": "United States",
+    "students": 45742
+  },
+  {
+    "name": "University of Cambridge",
+    "established": 1636,
+    "img": "https://worldscholarshipforum.com/wp-content/uploads/2020/11/cambridge-university-tuition.jpg",
+    "location": "United Kingdom",
+    "students": 24450
+  },
+  {
+    "name": "Nationa University of Singapore",
+    "established": 1905,
+    "img": "https://www.nus.edu.sg/images/default-source/corporate/homepage-refresh/20210924/h2.jpg",
+    "location": "Singapore",
+    "students": 35908
+  },
+  {
+    "name": "University of Oxford",
+    "established": 1919,
+    "img": "https://s3.eu-north-1.amazonaws.com/images.free-apply.com/uni/gallery/lg/1082600235/4fa5a6e92b4a5e75e1977a33106a5419f1cf1921.jpg",
+    "location": "United Kingdom",
+    "students": 24515
+  },
+  {
+    "name": "Stanford University",
+    "established": 1891,
+    "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201610/stanford---wikipedia-647_101716052024.jpg?size=770:433",
+    "location": "United States",
+    "students": 17249
+  },
+  {
+    "name": "Brown University",
+    "established": 1764,
+    "img": "https://www.brown.edu/sites/g/files/dprerj316/files/styles/ultrawide_med/public/2019-03/20181031_Brown4_C83T5506.jpg?h=298f6650&itok=5d_YSX8y",
+    "location": "United Kingdom",
+    "students": 10333
+  }
+]
